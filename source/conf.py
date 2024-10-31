@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-# project = 'complexity-lca'
+project = 'Complexity-LCA'
 # copyright = '2024, Gustavo Larrea, Tomas Navarrete'
 # author = 'Gustavo Larrea, Tomas Navarrete'
 # release = '0.0.1'
