@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'lca-protocol'
-copyright = '2024, Gustavo Larrea, Tomas Navarrete'
-author = 'Gustavo Larrea, Tomas Navarrete'
-release = '0.0.1'
+# project = 'complexity-lca'
+# copyright = '2024, Gustavo Larrea, Tomas Navarrete'
+# author = 'Gustavo Larrea, Tomas Navarrete'
+# release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
