@@ -8,16 +8,18 @@ Welcome to the initiative!
 
 We are an open initiative consisting of researchers who are industrial ecologists, computer scientists, and social scientists, aiming to integrate complexity-oriented methods into life cycle thinking (LCT) approach. 
 Many of us apply agent-based modelling (ABM) techniques in combination with life cycle assessment (LCA), input-output analysis (IOA), and material flow analysis (MFA) to explore and assess the sustainability of socio-techno-ecological systems. 
+We provide opportunities for networking, research collaboration, and methodological development. 
+Our application areas vary, including circular economy, industrial symbiosis, construction, urban planning, agriculture and food.  
+
 
 Find our next event
 ===================
 
-Join our special session, “Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways”, at the online event of ISIE day. 
+Join our special session, “Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways”, at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
 
-.. note::
+.. attention::
 
-    The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
-
+    Date: November 21, 14:00-15:00 Central European Time (CET)
 
 `Register here! <https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF>`_
 
