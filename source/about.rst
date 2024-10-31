@@ -43,8 +43,8 @@ We plan to organize the following activities:
 Steering members 
 ----------------
 
-Kasper LANGE, Amsterdam University of Applied Sciences, The Netherlands
-Ryu KOIDE, National Institute for Environmental Studies, Japan
-Tianran DING, Luxembourg Institute of Science and Technology, Luxembourg
-Gustavo LARREA GALLEGOS, Luxembourg Institute of Science and Technology, Luxembourg
-Michal BACZYK, Utrecht University, The Netherlands
+    * Kasper LANGE, Amsterdam University of Applied Sciences, The Netherlands
+    * Ryu KOIDE, National Institute for Environmental Studies, Japan
+    * Tianran DING, Luxembourg Institute of Science and Technology, Luxembourg
+    * Gustavo LARREA GALLEGOS, Luxembourg Institute of Science and Technology, Luxembourg
+    * Michal BACZYK, Utrecht University, The Netherlands
