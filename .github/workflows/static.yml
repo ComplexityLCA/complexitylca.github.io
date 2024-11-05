@@ -36,6 +36,7 @@ jobs:
         sphinx-build -b html source docs -a
         
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
