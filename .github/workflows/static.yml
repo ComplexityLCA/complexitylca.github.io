@@ -37,13 +37,23 @@ jobs:
     - name: Sphinx build
       run: |
         sphinx-build -b html source docs -a
+    - name: Upload docs
+      uses: actions/upload-artifact@master
+      with:
+        name: docs
+        path: 'docs/'
 
   deploy:
-      needs: build
       environment:
         name: github-pages
         url: ${{ steps.deployment.outputs.page_url }}
+      runs-on: ubuntu-latest
       steps:
+        - name: Download docs
+          uses: actions/download-artifact@master
+          with:
+            name: docs
+            path: 'docs/'
         - name: Setup Pages
           uses: actions/configure-pages@v5
         - name: Upload artifact
