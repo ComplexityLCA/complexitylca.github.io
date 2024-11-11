@@ -48,3 +48,4 @@ Steering members
     * Tianran DING, Luxembourg Institute of Science and Technology, Luxembourg
     * Gustavo LARREA GALLEGOS, Luxembourg Institute of Science and Technology, Luxembourg
     * Michal BACZYK, Utrecht University, The Netherlands
+    * Jonathan Cohen, Chalmers University of Technology, Sweden
