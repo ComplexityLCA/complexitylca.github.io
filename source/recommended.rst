@@ -1,9 +1,8 @@
 Recommended literature and resources
-======================
-
+====================================
     
- Agent-baesd modeling and life cycle thinking: key review and methodological papers
-----------
+Agent-based modeling and life cycle thinking: key review and methodological papers
+-----------------------------------------------------------------------------------
 
     * Micolier, A., Loubet, P., Taillandier, F., Sonnemann, G., 2019. To what extent can agent-based modelling enhance a life cycle assessment? Answers based on a literature review. Journal of Cleaner Production 239, 118123. https://doi.org/10.1016/j.jclepro.2019.118123
     * Hicks, A., 2022. Seeing the people in LCA: Agent based models as one possibility. Resources, Conservation & Recycling Advances 15, 200091. https://doi.org/10.1016/j.rcradv.2022.200091
@@ -12,8 +11,8 @@ Recommended literature and resources
     * Dijkema, G.P.J., Xu, M., Derrible, S., Lifset, R., 2015. Complexity in Industrial Ecology: Models, Analysis, and Actions: Complexity in Industrial Ecology. Journal of Industrial Ecology 19, 189–194. https://doi.org/10.1111/jiec.12280
     * Walzberg, J., Lonca, G., Hanes, R.J., Eberle, A.L., Carpenter, A., Heath, G.A., 2021. Do We Need a New Sustainability Assessment Method for the Circular Economy? A Critical Literature Review. Frontiers in Sustainability 1, 620047. https://doi.org/10.3389/frsus.2020.620047
     
-Agent-baesd modeling: textbooks and guidelines
-----------
+Agent-based modeling: textbooks and guidelines
+----------------------------------------------
 
     * Dam, K.H., Nikolic, I., Lukszo, Z. (Eds.), 2013. Agent-Based Modelling of Socio-Technical Systems. Springer Netherlands, Dordrecht. https://doi.org/10.1007/978-94-007-4933-7
     * Railsback, S.F., Grimm, V. 2019. Agent-based and Individual-based Modeling: A Practical Introduction. Princeton University Press. https://www.railsback-grimm-abm-book.com/
@@ -26,8 +25,8 @@ Agent-baesd modeling: textbooks and guidelines
     * Edmonds, B., Grimm, V., Meyer, R., Montañola, C., Ormerod, P., Root, H., Squazzoni, F., 2019. Different Modelling Purposes. Journal of Artificial Societies and Social Simulation 22, 6. https://doi.org/10.18564/jasss.3993
     * Ten Broeke, G., Van Voorn, G., Ligtenberg, A., 2016. Which Sensitivity Analysis Method Should I Use for My Agent-Based Model? JASSS 19, 5. https://doi.org/10.18564/jasss.2857
  
-Agent-baesd modeling: software and packages
-----------
+Agent-based modeling: software and packages
+-------------------------------------------
 
     * Mesa: Agent-based modeling in Python https://mesa.readthedocs.io/stable/
     * NetLogo User Manual https://ccl.northwestern.edu/netlogo/docs/
@@ -38,8 +37,8 @@ Agent-baesd modeling: software and packages
     * nlrx: a package for running NetLogo simulations from R https://docs.ropensci.org/nlrx/reference/nlrx-package.html
     * The Network for Computational Modeling in the Social and Ecological Sciences (CoMSES Net) https://www.comses.net/
 
-Agent-baesd modeling: online lectures and summer schools
-----------
+Agent-based modeling: online lectures and summer schools
+--------------------------------------------------------
 
     * Complexity Explorer by Santa Fe Institute https://www.complexityexplorer.org/
     * Agent Based Modeling of Complex Adaptive Systems by Technical University of Delft https://ocw.tudelft.nl/courses/agent-based-modeling-of-complex-adaptive-systems-basic/
