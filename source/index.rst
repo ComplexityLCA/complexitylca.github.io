@@ -47,7 +47,8 @@ complexity.lca@gmail.com
 
 .. toctree::
     :maxdepth: 2
-   
+    :hidden:
+
     About the initiative  <about>
     Events <events>
     Recommended literature <recommended>
