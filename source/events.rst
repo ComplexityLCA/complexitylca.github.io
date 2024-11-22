@@ -8,15 +8,12 @@ complexity.lca@gmail.com
 Our past events:
 ================
 
-November 21, 2024
------------------
-
-Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways
-...................................................................................................................................
+[November 21, 2024] Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 .. note:: 
     
-    `EVENT RESOURCES (slides, videos) <https://github.com/ComplexityLCA/complexity-lca-events/tree/main/21-11-2024>`_
+    This event has resources (slides, videos), access `here <https://github.com/ComplexityLCA/complexity-lca-events/tree/main/21-11-2024>`_
 
 Join our special session at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
 
@@ -51,15 +48,12 @@ https://is4ie.org/events/event/international-industrial-ecology-day-2024/program
 
 
 
-June 7, 2024
-------------
-
-Introducing complexity-oriented methods into life-cycle thinking enhancing the study of sustainable socio-technical systems
-...........................................................................................................................
+[June 7, 2024] Introducing complexity-oriented methods into life-cycle thinking enhancing the study of sustainable socio-technical systems
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 .. note:: 
     
-    `EVENT RESOURCES (slides, videos) <https://github.com/ComplexityLCA/complexity-lca-events/tree/main/07-06-2024>`_
+    This event has resources (slides, videos), access `here <https://github.com/ComplexityLCA/complexity-lca-events/tree/main/07-06-2024>`_
 
 The initiative was launched with this webinar with more than 100 participants from Europe, Asia, and Amerias. Three keynote presentations by three experienced researchers in the field were meant to provide an introductory view of the main characteristics, benefits, and difficulties of using complexity-oriented approaches in combination with LCA studies. 
 
@@ -77,12 +71,6 @@ Tomás Navarrete Gutiérrez works at the Environmental Research & Innovation (ER
 Research Fellow at Imperial College London's Urban Energy Systems group at the Faculty of Engineering  specialized in agent-based models for city systems. He utilizes spatial and temporal data from various sectors and scales, particularly energy and transport, providing valuable decision support for designing new services, technologies, and policies. Having worked on national and international sustainability projects, he is currently part of the FCDO-funded Climate Compatible Growth (CCG) programme and member of the secretariat of the Energy Transition Council (ETC) working in close collaboration with the UK's Department of Energy Security and Net Zero (DESNZ) to deliver coordination and technical assistance in partner countries.
 
 The webinar was concluded with participatory discussion to list out challenges we face in our complexity-oriented life cycle research and expectations to the initiative. (link to slide)
-
-Recording of the webinar:
-youtube
-
-Flyer of the webinar:
-github
 
 Description of the event:
 https://www.list.lu/en/event/introducing-complexity-oriented-methods-into-life-cycle-thinking/
