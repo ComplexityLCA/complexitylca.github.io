@@ -1,15 +1,19 @@
+Organized events
+================
+
 Upcoming events
-===============
+---------------
+
 
 No upcoming events at the moment. 
 If you are organizing an event or you have event ideas, please contact us at: \
 complexity.lca@gmail.com
 
 Our past events
-===============
+---------------
 
 [21/11/2024] Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways
--------------------------------------------------------------------------------------------------------------------------------------------------
+.................................................................................................................................................
 
 .. note:: 
     
@@ -47,7 +51,7 @@ Description of the event:
 https://is4ie.org/events/event/international-industrial-ecology-day-2024/program/112
 
 [07/06/2024] Introducing complexity-oriented methods into life-cycle thinking enhancing the study of sustainable socio-technical systems
-----------------------------------------------------------------------------------------------------------------------------------------
+..............................................................................................................................................
 
 .. note:: 
     
@@ -72,7 +76,4 @@ The webinar was concluded with participatory discussion to list out challenges w
 
 Description of the event:
 https://www.list.lu/en/event/introducing-complexity-oriented-methods-into-life-cycle-thinking/
-
-
-
 
