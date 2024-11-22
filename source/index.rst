@@ -21,6 +21,7 @@ Join our special session, “Showcasing the potentials of agent-based modelling 
 
     Date: November 21, 14:00-15:00 Central European Time (CET)
 
+
 `Register here! <https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF>`_
 
 For more information about the event, join this link:
@@ -46,8 +47,7 @@ complexity.lca@gmail.com
 
 .. toctree::
     :maxdepth: 2
-    :hidden:
-
+   
     About the initiative  <about>
     Events <events>
     Recommended literature <recommended>
