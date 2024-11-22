@@ -12,20 +12,20 @@ We provide opportunities for networking, research collaboration, and methodologi
 Our application areas vary, including circular economy, industrial symbiosis, construction, urban planning, agriculture and food.  
 
 
-Find our next event
-===================
+.. Find our next event
+.. ===================
 
-Join our special session, “Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways”, at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
+.. Join our special session, “Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways”, at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
 
-.. attention::
+.. .. attention::
 
-    Date: November 21, 14:00-15:00 Central European Time (CET)
+..     Date: November 21, 14:00-15:00 Central European Time (CET)
 
 
-`Register here! <https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF>`_
+.. `Register here! <https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF>`_
 
-For more information about the event, join this link:
-https://is4ie.org/events/event/international-industrial-ecology-day-2024/program/112
+.. For more information about the event, join this link:
+.. https://is4ie.org/events/event/international-industrial-ecology-day-2024/program/112
 
 
 Join the network 
