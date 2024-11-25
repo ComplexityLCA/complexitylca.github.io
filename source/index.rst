@@ -18,6 +18,8 @@ Find upcoming events
 **[15/01/2025 - 17/01/2025]** Web course: Introduction to Agent Based Modeling \
 `[information here] <./events>`_
 
+Here find other :ref:`Upcoming events`.
+
 .. Join our special session, “Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways”, at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
 
 .. .. attention::
