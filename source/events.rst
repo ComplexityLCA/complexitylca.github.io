@@ -1,6 +1,9 @@
 Organized events
 ================
 
+
+.. _upcoming-events:
+
 Upcoming events
 ---------------
 
