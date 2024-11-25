@@ -4,12 +4,58 @@ Organized events
 Upcoming events
 ---------------
 
-
-No upcoming events at the moment. 
 If you are organizing an event or you have event ideas, please contact us at: \
 complexity.lca@gmail.com
 
-Our past events
+[15/01/2025 - 17/01/2025] Introduction to Agent Based Modeling
+..............................................................
+
+..note ::
+    This description has been provided by the organizer.
+
+**Organizer:** Code Horizons
+
+**Instructor:** Paul Smaldino, Ph.D.
+
+**Description:**
+
+Agent-based models are a class of models for analyzing complex social systems in \
+which individual actors are instantiated as computational objects.
+They have been used to better understand social phenomena such as cooperation, \
+collective problem solving, polarization, segregation, traffic flow, the spread \
+of disease, and the emergence of social norms.
+
+In this seminar, you will learn to design and build \
+your own agent-based model, analyze agent-based models both qualitatively \
+and quantitatively, and use NetLogo.
+
+**Topics covered include:**
+
+    Models, agent-based and otherwise
+    Cellular automata models
+    A simple host-pathogen model
+    Mobile agents SI and SIS models
+    SIR models
+    Modeling vaccines and herd immunity
+    Batch runs
+    Network models
+    Small-world networks
+    Simple and complex contagions on networks
+
+While we focus on models of contagion, most of the modeling techniques you will \
+learn are applicable to models of social dynamics more generally.
+
+We will use NetLogo, a free software tool and programming language designed for agent \
+based models. 
+Many of the techniques we will learn are platform-independent, will apply to other \
+programming languages or software libraries as well.
+
+More information, access the `organizers site <https://codehorizons.com/Seminars/\
+introduction-to-agent-based-modeling/?utm_source=simplycast&utm_medium=\
+email&utm_campaign=abm-winter25>`_
+
+
+Past events
 ---------------
 
 [21/11/2024] Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways

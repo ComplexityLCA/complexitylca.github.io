@@ -12,8 +12,11 @@ We provide opportunities for networking, research collaboration, and methodologi
 Our application areas vary, including circular economy, industrial symbiosis, construction, urban planning, agriculture and food.  
 
 
-.. Find our next event
-.. ===================
+Find upcoming events
+====================
+
+**[15/01/2025 - 17/01/2025]** Web course: Introduction to Agent Based Modeling \
+`[information here] <[15/01/2025 - 17/01/2025] Introduction to Agent Based Modeling>`_
 
 .. Join our special session, “Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways”, at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
 
@@ -38,12 +41,10 @@ Please log in to your Google account and click “join the group” here: https:
 You can use any email address, but you need to create a Google account with that address.
 
 
-
 📫 Contact
 ==========
 
 complexity.lca@gmail.com
-
 
 .. toctree::
     :maxdepth: 2
