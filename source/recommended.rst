@@ -45,3 +45,4 @@ Agent-based modeling: online lectures and summer schools
     * European Social Simulation Association Summer Schools http://www.essa.eu.org/event-type/summer-school/
     * BEHAVE Summer School on Agent Based Modelling https://abmschool.behavelab.org/
     * Asian Social Simulation Association Summer Schools https://socialsimulation.net/trainings/
+    * Introduction to Agent Based Modeling (Code Horizons) https://codehorizons.com/Seminars/introduction-to-agent-based-modeling/

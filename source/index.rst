@@ -12,12 +12,6 @@ We provide opportunities for networking, research collaboration, and methodologi
 Our application areas vary, including circular economy, industrial symbiosis, construction, urban planning, agriculture and food.  
 
 
-Find upcoming events
-====================
-
-**[15/01/2025 - 17/01/2025]** Web course: Introduction to Agent Based Modeling \
-:ref:`[information here] <upcoming-events>`.
-
 Join the network 
 ================
 
