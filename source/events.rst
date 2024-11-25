@@ -10,7 +10,7 @@ complexity.lca@gmail.com
 [15/01/2025 - 17/01/2025] Introduction to Agent Based Modeling
 ..............................................................
 
-..note ::
+.. note::
     This description has been provided by the organizer.
 
 **Organizer:** Code Horizons
@@ -32,14 +32,23 @@ and quantitatively, and use NetLogo.
 **Topics covered include:**
 
     Models, agent-based and otherwise
+
     Cellular automata models
+
     A simple host-pathogen model
+
     Mobile agents SI and SIS models
+
     SIR models
+
     Modeling vaccines and herd immunity
+
     Batch runs
+
     Network models
+
     Small-world networks
+
     Simple and complex contagions on networks
 
 While we focus on models of contagion, most of the modeling techniques you will \
