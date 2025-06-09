@@ -19,7 +19,7 @@ Join our special session, “Showcasing the potentials of agent-based modelling 
 
 .. attention::
 
-    Date: November 21, 2024, 14:00-15:00 Central European Time (CET)
+    Date: November 21, 14:00-15:00 Central European Time (CET)
 
 `Register here! <https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF>`_
 
