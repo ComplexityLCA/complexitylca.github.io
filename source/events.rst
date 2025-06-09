@@ -1,11 +1,26 @@
-Upcoming events:
+Organized events
 ================
 
-November 21, 2024
------------------
 
-Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways
-...................................................................................................................................
+.. _upcoming-events:
+
+Upcoming events
+---------------
+
+No upcoming events at the moment. \
+If you are organizing an event or you have event ideas, \
+please contact us at: complexity.lca@gmail.com
+
+
+Past events
+---------------
+
+[21/11/2024] Showcasing the potentials of agent-based modelling for Industrial Ecology research: challenges and perspectives for future pathways
+.................................................................................................................................................
+
+.. note:: 
+    
+    This event has resources (slides, videos), access `here <https://github.com/ComplexityLCA/complexity-lca-events/tree/main/21-11-2024>`_
 
 Join our special session at the online event of ISIE day. The event is open for members and non-members of the International Society for Industrial Ecology (ISIE)
 
@@ -32,21 +47,18 @@ Interactive session & discussion (15 min)
 Key takeaways and Q&A on presentations
 Interactive session focusing on expectations, limitations, and ways forward
 
-Registration link: 
-https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF
+.. Registration link: 
+.. https://us06web.zoom.us/meeting/register/tZUkfu-vqjIrHNGmrrQuR7MQLyalP82DdRgF
 
 Description of the event:
 https://is4ie.org/events/event/international-industrial-ecology-day-2024/program/112
 
+[07/06/2024] Introducing complexity-oriented methods into life-cycle thinking enhancing the study of sustainable socio-technical systems
+..............................................................................................................................................
 
-Our past events:
-================
-
-June 7, 2024
-------------
-
-Introducing complexity-oriented methods into life-cycle thinking enhancing the study of sustainable socio-technical systems
-...........................................................................................................................
+.. note:: 
+    
+    This event has resources (slides, videos), access `here <https://github.com/ComplexityLCA/complexity-lca-events/tree/main/07-06-2024>`_
 
 The initiative was launched with this webinar with more than 100 participants from Europe, Asia, and Amerias. Three keynote presentations by three experienced researchers in the field were meant to provide an introductory view of the main characteristics, benefits, and difficulties of using complexity-oriented approaches in combination with LCA studies. 
 
@@ -65,15 +77,6 @@ Research Fellow at Imperial College London's Urban Energy Systems group at the F
 
 The webinar was concluded with participatory discussion to list out challenges we face in our complexity-oriented life cycle research and expectations to the initiative. (link to slide)
 
-Recording of the webinar:
-youtube
-
-Flyer of the webinar:
-github
-
 Description of the event:
 https://www.list.lu/en/event/introducing-complexity-oriented-methods-into-life-cycle-thinking/
-
-
-
 
