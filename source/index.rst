@@ -15,12 +15,9 @@ Our application areas vary, including circular economy, industrial symbiosis, co
 Join the network 
 ================
 
-Join our Google group to get updates on upcoming events and the latest developments of our collaboration opportunities.
+Join our email list to get updates on upcoming events and the latest developments of our collaboration opportunities.
 
-Please log in to your Google account and click “join the group” here: https://groups.google.com/u/2/g/complexity-lca
-
-You can use any email address, but you need to create a Google account with that address.
-
+Please sign up for our email list here: https://gaggle.email/join/complexity-lca@gaggle.email
 
 📫 Contact
 ==========
