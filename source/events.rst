@@ -30,37 +30,28 @@ The session is composed of the following presentations and interactive discussio
 (moderator: Gustavo Larrea, Luxembourg Institute of Science and Technology):
 
 Introduction (5 min)
-
 **Introduction of Life-Cycle Thinking for Complex-Systems Initiative**
 (presenter: Agnese Fuortes, National Institute for Public Health and the Environment (RIVM) & Leiden University)
 
 Introduction to complexity (10 min)
-
 **What is complexity? Why do we need complexity science methods in industrial ecology? (e.g., emergence, feedback, heterogeneity, spatio-temporal dynamics)** 
 (presenter: Jonathan Cohen, Chalmers University of Technology)
 
 Interactive session & discussion (5 min)
-
 Participants were invited to share the sustainability topics they work on and to reflect on the types of complexity they encounter in their research.
 (moderator: Kasper Lange, Amsterdam University of Applied Sciences)
 
 Contribution of Agent-Based Modelling in Different Advancement of LCA (10 min)
-
 **Dynamicity and temporality: Prospective and Dynamic LCA; Causality: Consequential LCA; Scale: Territorial LCA**
 (presenter: Kasper Lange, Amsterdam University of Applied Sciences)
 
 Paradigm Shifts in IE Research through Integrating Agent-Based Modelling (10 min)
-
 **Decision-makers in complex socio-technical systems; Endogenised modelling of policy interventions; Decision making under deep uncertainty**
 (presenter: Ryu Koide, National Institute for Environmental Studies / Technical University of Delft)
 
 Interactive session & discussion (10 min)
-
 Participants were asked which benefits of agent-based modelling they consider most promising for advancing LCA, what they would need to integrate AB-LCA into their own work, and which next steps should be taken collectively to strengthen and advance AB-LCA within the community. 
 (moderator: Kasper Lange, Amsterdam University of Applied Sciences)
-
-Key takeaways and Q&A
-
 
 Description of the event:
 https://is4ie.org/events/event/international-industrial-ecology-day-2025/program/137
@@ -70,7 +61,7 @@ https://is4ie.org/events/event/international-industrial-ecology-day-2025/program
 
 .. note:: 
     
-    This event has resources (slides, videos), access `here <https://ssc2025.tbm.tudelft.nl/conference-program/>`_
+    This event has resources (programme overview), access `here <https://ssc2025.tbm.tudelft.nl/conference-program/>`_
 
 We organised a special track session at the Social Simulation Conference (SSC) 2025 of the European Social Simulation Association (ESSA) in Delft, the Netherlands. \
 The session featured seven contributions addressing simulation studies on the socio-technical complexity of the circular economy and methodological developments for coupling multiple modelling techniques or enhancing stakeholder engagement. 
@@ -84,7 +75,7 @@ For instance, it requires coupling with other methods like material flow analysi
 In this session, we seek contributions about simulation studies on the socio-technical complexity of the circular economy and/or methodological development to couple multiple modelling techniques or stakeholder engagement. 
 
 
-The session was composed of the following seven contributions
+The session was composed of the following seven contributions:
 
 **Extended Producer Responsibility to Reduce Plastic Waste Pollution: An Agent-Based Modelling Study to Analyze EPR Instruments in Indonesia**  
 (Mira Groot, Jaco Quist, Martijn Warnier, Eline Leising, Michiel Kort)
