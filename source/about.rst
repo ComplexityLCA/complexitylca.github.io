@@ -44,8 +44,11 @@ Steering members
 ----------------
 
     * Kasper LANGE, Amsterdam University of Applied Sciences, The Netherlands
-    * Ryu KOIDE, National Institute for Environmental Studies, Japan
-    * Tianran DING, Luxembourg Institute of Science and Technology, Luxembourg
-    * Gustavo LARREA GALLEGOS, Luxembourg Institute of Science and Technology, Luxembourg
+    * Ryu KOIDE, National Institute for Environmental Studies (NIES), Japan
+    * Tianran DING, Luxembourg Institute of Science and Technology (LIST), Luxembourg
+    * Gustavo LARREA GALLEGOS, Luxembourg Institute of Science and Technology (LIST), Luxembourg
     * Michal BACZYK, Utrecht University, The Netherlands
-    * Jonathan Cohen, Chalmers University of Technology, Sweden
+    * Jonathan COHEN, Chalmers University of Technology, Sweden
+    * Agnese FUORTES, National Institute for Public Health and the Environment (RIVM), the Netherlands
+    * Paul CARREY, National Research Institute for Agriculture, Food and Environment (INRAE), France
+
