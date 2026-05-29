@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Complexity-LCA'
+project = "Complexity-LCA"
 # copyright = '2024, Gustavo Larrea, Tomas Navarrete'
 # author = 'Gustavo Larrea, Tomas Navarrete'
 # release = '0.0.1'
@@ -15,25 +15,22 @@ project = 'Complexity-LCA'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-'myst_parser',
-'sphinxcontrib.bibtex',
+    "myst_parser",
+    "sphinxcontrib.bibtex",
+    "sphinx_design",
 ]
 
-bibtex_bibfiles = ['bibliography.bib']
+bibtex_bibfiles = ["bibliography.bib"]
 
-templates_path = ['_templates']
+templates_path = ["_templates"]
 exclude_patterns = []
-
 
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_book_theme'
-html_context = {
-   "default_mode": "light",
-    "reading_mode": "light"
-}
+html_theme = "sphinx_book_theme"
+html_context = {"default_mode": "light", "reading_mode": "light"}
 
 
-html_static_path = ['_static']
+html_static_path = ["_static"]

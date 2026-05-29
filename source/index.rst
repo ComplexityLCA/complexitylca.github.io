@@ -1,18 +1,27 @@
 
-==================================================
-Life-Cycle Thinking for Complex Systems Initiative
-==================================================
+======================================================
+**Life-Cycle Thinking for Complex Systems Initiative**
+======================================================
 
 Welcome to the initiative!
 ==========================
 
-We are an open initiative consisting of researchers who are industrial ecologists, computer scientists, and social scientists, aiming to integrate complexity-oriented methods into life cycle thinking (LCT) approach. 
-Many of us apply agent-based modelling (ABM) techniques in combination with life cycle assessment (LCA), input-output analysis (IOA), and material flow analysis (MFA) to explore and assess the sustainability of socio-techno-ecological systems. 
-We provide opportunities for networking, research collaboration, and methodological development. 
-Our application areas vary, including circular economy, industrial symbiosis, construction, urban planning, agriculture and food.  
+We are an open initiative consisting of researchers who are industrial ecologists, computer scientists, and social scientists, aiming to integrate complexity-oriented methods into life cycle thinking (LCT) approach.
+Many of us apply agent-based modelling (ABM) techniques in combination with life cycle assessment (LCA), input-output analysis (IOA), and material flow analysis (MFA) to explore and assess the sustainability of socio-techno-ecological systems.
+We provide opportunities for networking, research collaboration, and methodological development.
+Our application areas vary, including circular economy, industrial symbiosis, construction, urban planning, agriculture and food.
+
+Latest news
+===========
+
+.. include:: news.rst
+   :start-after: LATEST-NEWS-START
+   :end-before: LATEST-NEWS-END
+
+`Read all news <news.html>`_
 
 
-Join the network 
+Join the network
 ================
 
 Join our email list to get updates on upcoming events and the latest developments of our collaboration opportunities.
@@ -30,6 +39,7 @@ complexity.lca@gmail.com
 
     About the initiative  <about>
     Events <events>
+    News <news>
     Recommended literature <recommended>
 
 ..    Indices and tables
