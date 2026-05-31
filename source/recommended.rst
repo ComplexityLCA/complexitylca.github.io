@@ -1,6 +1,6 @@
 Recommended literature and resources
 ====================================
-    
+
 Agent-based modeling and life cycle thinking: key review and methodological papers
 -----------------------------------------------------------------------------------
 
@@ -10,7 +10,9 @@ Agent-based modeling and life cycle thinking: key review and methodological pape
     * Larrea-Gallegos, G., Marvuglia, A., Navarrete Gutiérrez, T., Benetto, E., 2024. A computational framework for modeling socio-technical agents in the life-cycle sustainability assessment of supply networks. Sustainable Production and Consumption 46, 641–654. https://doi.org/10.1016/j.spc.2024.03.008
     * Dijkema, G.P.J., Xu, M., Derrible, S., Lifset, R., 2015. Complexity in Industrial Ecology: Models, Analysis, and Actions: Complexity in Industrial Ecology. Journal of Industrial Ecology 19, 189–194. https://doi.org/10.1111/jiec.12280
     * Walzberg, J., Lonca, G., Hanes, R.J., Eberle, A.L., Carpenter, A., Heath, G.A., 2021. Do We Need a New Sustainability Assessment Method for the Circular Economy? A Critical Literature Review. Frontiers in Sustainability 1, 620047. https://doi.org/10.3389/frsus.2020.620047
-    
+    * Koide, R., Larrea-Gallegos, G., Cohen, J., Ding, T., Bączyk, M., & Lange, K. (2026). What can life cycle assessment modeling gain from agent-based modeling?. Journal of Industrial Ecology, 1-17. https://link.springer.com/article/10.1007/s44498-026-00098-w
+    * Carrey, P., Jouannais, P., Hélias, A., & Loiseau, E. (2026). Agent-Based Modeling and Life Cycle Assessment: A systematic review. Cleaner Environmental Systems, 100433. https://www.sciencedirect.com/science/article/pii/S2666789426000395
+
 Agent-based modeling: textbooks and guidelines
 ----------------------------------------------
 
@@ -24,7 +26,7 @@ Agent-based modeling: textbooks and guidelines
     * Schlüter, M., Baeza, A., Dressler, G., Frank, K., Groeneveld, J., Jager, W., Janssen, M.A., McAllister, R.R.J., Müller, B., Orach, K., Schwarz, N., Wijermans, N., 2017. A framework for mapping and comparing behavioural theories in models of social-ecological systems. Ecological Economics 131, 21–35. https://doi.org/10.1016/j.ecolecon.2016.08.008
     * Edmonds, B., Grimm, V., Meyer, R., Montañola, C., Ormerod, P., Root, H., Squazzoni, F., 2019. Different Modelling Purposes. Journal of Artificial Societies and Social Simulation 22, 6. https://doi.org/10.18564/jasss.3993
     * Ten Broeke, G., Van Voorn, G., Ligtenberg, A., 2016. Which Sensitivity Analysis Method Should I Use for My Agent-Based Model? JASSS 19, 5. https://doi.org/10.18564/jasss.2857
- 
+
 Agent-based modeling: software and packages
 -------------------------------------------
 
